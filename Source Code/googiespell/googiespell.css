@@ -1,0 +1,131 @@
+       
+body
+{
+	margin: 0px;
+	direction: rtl;
+	font-family: ALKATIP Tor, UKIJ Tuz Tom, UKK TZK2, Microsoft Uighur, Tahoma;
+}
+.buttons
+{
+	font-family: ALKATIP Tor, UKIJ Tuz Tom, UKK TZK2, Microsoft Uighur, Tahoma;
+	font-size: x-small;
+}
+.textAreaBig
+{
+	font-family: ALKATIP Tor, UKIJ Tuz Tom, UKK TZK2, Microsoft Uighur, Tahoma;
+    font-size: 13pt;
+}
+.textAreaNormal
+{
+    font-family: ALKATIP Tor, UKIJ Tuz Tom, UKK TZK2, Microsoft Uighur, Tahoma;
+    font-size: 11pt;
+}
+.TextAreaBigger
+{
+	font-family: ALKATIP Tor, UKIJ Tuz Tom, UKK TZK2, Microsoft Uighur, Tahoma;
+    font-size: 15pt;
+}
+
+.googie_window {
+  font-size: 11pt;
+  border: 1px solid #555;
+  background-color: #ecefff;
+  margin: 0;
+  position: absolute;
+  visibility: hidden;
+  z-index: 300;
+  padding: 1px;
+  width: 175px;
+    
+  direction:rtl;
+}
+
+.googie_list {
+  margin: 0;
+  padding: 0;
+  direction:rtl;
+  font-family:ALKATIP Tor, UKIJ Tuz Tom, UKK TZK2, Microsoft Uighur, Tahoma;}
+
+.googie_list td {
+  padding: 1px 0 1px 0;
+  cursor: pointer;
+  list-style-type: none;
+  color: #000;
+  direction:rtl;
+}
+
+.googie_list_onhover {
+  background-color: #FBEC72;
+  direction:rtl;
+}
+
+.googie_list_onout {
+  background-color: #ecefff;
+  direction:rtl;
+}
+
+.googie_list_selected {
+  background-color: #ccc;
+  direction:rtl;
+}
+
+.googie_list_revert {
+  color: #b91479;
+  direction:rtl;
+}
+
+.googie_list_close {
+  color: #b91414;
+  direction:rtl;
+}
+
+.googie_link {
+  color: #b91414;
+  text-decoration: underline;
+  cursor: pointer;}
+
+.googie_check_spelling_link {
+  color: #0049B7;
+  text-decoration: underline;
+  cursor: pointer;
+  font-size:10pt;
+  }
+
+.googie_no_style {
+  text-decoration: none;
+  direction:rtl;
+}
+
+.googie_resume_editing {
+  color: green;
+  text-decoration: underline;
+  cursor: pointer;
+  direction:rtl;
+  font-size:10pt;
+  font-family:ALKATIP Tor, UKIJ Tuz Tom, UKK TZK2, Microsoft Uighur, Tahoma;}
+
+.googie_check_spelling_ok {
+  color: white;
+  background-color: green;
+  padding-left: 2px;
+  padding-right: 2px;
+  cursor: pointer;
+  direction:rtl;
+
+}
+
+.googie_lang_3d_click img {
+  vertical-align: middle;
+  border-top: 1px solid #555;
+  border-left: 1px solid #555;
+  border-right: 1px solid #b1b1b1;
+  border-bottom: 1px solid #b1b1b1;
+}
+
+.googie_lang_3d_on img {
+  vertical-align: middle;
+  border-top: 1px solid #b1b1b1;
+  border-left: 1px solid #b1b1b1;
+  border-right: 1px solid #555;
+  border-bottom: 1px solid #555;
+}

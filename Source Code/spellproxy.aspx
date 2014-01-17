@@ -1,0 +1,1 @@
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="spellproxy.aspx.cs" Inherits="spellproxy" %>
